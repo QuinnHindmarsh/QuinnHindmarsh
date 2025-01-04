@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying my second year of Software Engeering at the University Of South Australia. I am passionate about Software Engineering/Computer Science as a whole, but I'm particularly interested in data structures and algorithims, as well as lower level concepts. 
+I'm currently studying my second year of Software Engineering at the University Of South Australia. I am passionate about Software Engineering/Computer Science as a whole, but I'm particularly interested in data structures and algorithms, as well as lower-level concepts.
 
-I am interested in collaberating on projects to gain more experiance, please feel free to contact me if you are interested. 
+I am interested in collaborating on projects to gain more experience, please feel free to contact me if you are interested.
+
 
 ### Featured
 

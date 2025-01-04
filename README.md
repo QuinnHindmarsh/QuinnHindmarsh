@@ -29,4 +29,5 @@ I am interested in collaberating on projects to gain more experiance, please fee
 
 ## Contanct me 
 Email: [Qhindmarsh@gmail.com](mailto:Qhindmarsh@gmail.com)
+
 Linkedin: [Quinn Hindmarsh](https://www.linkedin.com/in/quinn-hindmarsh/)
